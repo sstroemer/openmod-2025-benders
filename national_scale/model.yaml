@@ -12,7 +12,7 @@ config:
     name: National-scale example model
     # What version of Calliope this model is intended for
     calliope_version: 0.7.0
-    time_subset: ["2005-01-01", "2005-01-07"] # Subset of timesteps
+    time_subset: ["2005-01-01", "2005-01-01"] # Subset of timesteps
     broadcast_param_data: true  # allow single indexed parameter data entries to be broadcast across all index items, if there are multiple entries.
 
   build:
