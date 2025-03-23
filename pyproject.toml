@@ -1,0 +1,12 @@
+[project]
+name = "openmod-2025-benders"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "calliope",
+]
+
+[tool.uv.sources]
+calliope = { git = "https://github.com/calliope-project/calliope", rev = "c2a7563953c6c415e54d02ba8aeae0db4be67079" }
