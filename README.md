@@ -5,7 +5,7 @@ workshop.
 
 The [Calliope](https://calliope.readthedocs.io/en/stable/) example model (`national_scale`) as well as the code
 interacting with the model are based on a development version of Calliope, available before the release of `v0.7.0`,
-using the [GitHub repository](https://github.com/calliope-project/calliope) at the state of comit
+using the [GitHub repository](https://github.com/calliope-project/calliope) at the state of commit
 `c2a7563953c6c415e54d02ba8aeae0db4be67079`.
 
 Running this locally can be achieved, e.g., using `uv`:
